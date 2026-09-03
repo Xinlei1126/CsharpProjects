@@ -1,0 +1,14 @@
+C:\Users\18810\source\repos\UVT26\ProductList\ProductList\bin\Debug\net10.0\ProductList.exe
+C:\Users\18810\source\repos\UVT26\ProductList\ProductList\bin\Debug\net10.0\ProductList.deps.json
+C:\Users\18810\source\repos\UVT26\ProductList\ProductList\bin\Debug\net10.0\ProductList.runtimeconfig.json
+C:\Users\18810\source\repos\UVT26\ProductList\ProductList\bin\Debug\net10.0\ProductList.dll
+C:\Users\18810\source\repos\UVT26\ProductList\ProductList\bin\Debug\net10.0\ProductList.pdb
+C:\Users\18810\source\repos\UVT26\ProductList\ProductList\obj\Debug\net10.0\ProductList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18810\source\repos\UVT26\ProductList\ProductList\obj\Debug\net10.0\ProductList.AssemblyInfoInputs.cache
+C:\Users\18810\source\repos\UVT26\ProductList\ProductList\obj\Debug\net10.0\ProductList.AssemblyInfo.cs
+C:\Users\18810\source\repos\UVT26\ProductList\ProductList\obj\Debug\net10.0\ProductList.csproj.CoreCompileInputs.cache
+C:\Users\18810\source\repos\UVT26\ProductList\ProductList\obj\Debug\net10.0\ProductList.dll
+C:\Users\18810\source\repos\UVT26\ProductList\ProductList\obj\Debug\net10.0\refint\ProductList.dll
+C:\Users\18810\source\repos\UVT26\ProductList\ProductList\obj\Debug\net10.0\ProductList.pdb
+C:\Users\18810\source\repos\UVT26\ProductList\ProductList\obj\Debug\net10.0\ProductList.genruntimeconfig.cache
+C:\Users\18810\source\repos\UVT26\ProductList\ProductList\obj\Debug\net10.0\ref\ProductList.dll
