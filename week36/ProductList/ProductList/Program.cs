@@ -6,7 +6,6 @@ Console.WriteLine("All products will be displayed after exiting.");
 
 List<string> products = new List<string>();
 
-
 while (true)
 {
     Console.Write("Enter a product name: ");
@@ -67,7 +66,7 @@ while (true)
         continue;
     }
 
-    // Store the product in a consistent format
+    // Add the product in standard format
     string letters = leftPart;
     product = letters + " - " + number;
     products.Add(product);
@@ -75,7 +74,6 @@ while (true)
 }
 
 products.Sort();
-
 
 // Display all valid products after sorting
 Console.WriteLine("All entered products in sorted order: ");
